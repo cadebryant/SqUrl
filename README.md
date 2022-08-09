@@ -1,12 +1,3 @@
-,;;:;,
-;;;;;
-,:;;:;    ,'=.
-;:;:;' .=" ,'_\
-':;:;,/  ,__:=@
-';;:;  =./)_
- `"=\_  )_"`
-         ``'"`
-
 # Welcome to SqUrl - the Shortened Qualified URL generator!
 SqUrl is a command-line tool for generating shortened URLs from normal ones.
 
